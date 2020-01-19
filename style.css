@@ -34,7 +34,7 @@ li {
 a:hover{
   background-color: white;
   color: #170042;
-  border-radius: 15px;
+  border-radius: 10px;
 }
 .left {
   margin: 0;
@@ -95,8 +95,9 @@ section{
     width:45%;
     border-radius: 20px;
 }
-.project-tile a{
-  color: white;
+.project-tile a:hover{
+  color: #170042;
+  border-radius: 5px;
 }
 
 
